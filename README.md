@@ -35,3 +35,5 @@
   - Getting Token For Client
   - Copying Token To Local System
   - Setting up Cni
+
+[LinkedIn Profile](https://www.linkedin.com/in/dalbhanjan-singh-9a414a193/)
