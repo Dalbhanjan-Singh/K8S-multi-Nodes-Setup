@@ -1,0 +1,1 @@
+kubeadm join 172.31.47.79:6443 --token bsrhwh.ajqtl7veetelzuyv     --discovery-token-ca-cert-hash sha256:556a48134032ddee0acdaedb60b22ea56bf865ee84f15ec3a276a076718308fb 
